@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>Vous avez {balance} LBC</p>
+      <p>Vous avez {balance} LBC Token</p>
     </div>
   );
 }
